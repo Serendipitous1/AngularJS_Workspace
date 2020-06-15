@@ -1,2 +1,2 @@
 # AngularJS_Workspace
-Assignment work of "Single Page Web Applications with AngularJS Johns Hopkins University" course on Coursera.org
+Assignment work of "Single Page Web Applications with AngularJS" course BY Johns Hopkins University on Coursera.org
